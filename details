@@ -1,0 +1,32 @@
+Here i will collect pre-list of components, what i will use in controller.
+
+CPU STM32F072RBT6
+
+Main Dc 
+
+MC33063ADR - 7-40V input + B82477G4334M, 330 uH, 0.95 А + VS-10BQ060-M3/5BT
+
+DC-DC/5V AM1S-0505SZ or B0505S-1WR2. 5v-5v, 200mA
+
+Supply DC as main DC
+
+Optoisolators ADUM1402ARWZ. Two forward and 2 back channels
+
+1 OUT for 0-10V
+2 OUT, 1IN for RS-485
+1 OUT, 1IN for 1 Wire
+
+4 OUT, 2 IN -> 2x1402. And 2 channels IN are usable for others. 
+
+PC817 - optoisolators for 220v input. 
+
+USB6B1 - protect incoming RS485/USB lines.
+SM6T6V8A - TVS diodes for supply of USB6B1
+
+LM2904DG - OpAmp
+
+ADM485ARZ - RS-485 interface
+
+
+
+
