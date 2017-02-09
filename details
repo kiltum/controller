@@ -57,6 +57,32 @@ Relays - RY611005 - 5V or RY611024 - 24V
 Transformer - 760390014 (pattern 786xx/XMC) + SN6501 98+46 - 150
 - 220 
 
+B4S, Диодный мост 0.5А 400В [DB-1MS]
+
+FOD817 - 20mA - 1.2V
+50 гц - 20 мс
+
+24v - res - 1,2k
+R=60 , C=0,0001 (100мкф)
+
+T= 0,006 c or 6ms
+
+3T = 24ms
+
+100mkF - 30 RUR WTF???
+47 - 12rur
+
+bs4s 11 
+3x res - 3Rur
+
+ne555 - 7 rur! +6 + 3 +3 - 19r
+SN74HC05D - 6[ NOT] - 6rur
+
+
+3V - R=100000 C=0,0001
+T = 10C!!! WTF!!!
+
+
 
 
 
