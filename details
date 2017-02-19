@@ -1,4 +1,4 @@
-Here i will collect pre-list of components, what i will use in controller.
+﻿Here i will collect pre-list of components, what i will use in controller.
 
 CPU STM32F072RBT6
 
@@ -82,13 +82,10 @@ SN74HC05D - 6[ NOT] - 6rur
 3V - R=100000 C=0,0001
 T = 10C!!! WTF!!!
 
+----------------------
 
-
-
-
-
-
-
+TPS62175DQCT - for down
+LM27313 - for up
 
 
 
